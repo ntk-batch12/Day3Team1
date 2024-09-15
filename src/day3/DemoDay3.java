@@ -13,9 +13,31 @@ public class DemoDay3 {
 		String n2 = "AlQaraghuli";
 		String n3= "Merri";
 		firstName =  "jose";
+
+
+		int age = 10;
+		int count = 20;
+	}
+
+	public void add(int a, int b, int c) {
+		System.out.println(a + b + c);
 	}
 	
-	public void color(String color, String color2) {
-		System.out.println(color + color2);
+	public void getInfo() {
+		System.out.println("Create a conflict..");
+	}
+
+	public void balance(int x, int y) {
+		System.out.println(x + y);
+	}
+	
+	public static void add (int a, int b) {
+		System.out.println(a+b);
+		a= 6;
+		b=7;
+	}
+
+	public void notAble(int c, int d) {
+		system.println.out("are you able to pull it");
 	}
 }
