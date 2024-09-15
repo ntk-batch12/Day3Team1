@@ -23,4 +23,7 @@ public class DemoDay3 {
 		System.out.println(a + b + c);
 	}
 
+	public void balance(int x, int y) {
+		System.out.println(x + y);
+	}
 }
