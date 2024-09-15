@@ -18,4 +18,10 @@ public class DemoDay3 {
 		int age = 10;
 		int count = 20;
 	}
+
+	public void add(int a, int b) {
+
+		System.out.println(a+b);
+	}
+		
 }
