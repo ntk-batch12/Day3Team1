@@ -20,6 +20,10 @@ public class DemoDay3 {
 	}
 
 	public void add(int a, int b, int c) {
+		
+		a = 10;
+		b = 30;
+		c = 5;
 		System.out.println(a + b + c);
 	}
 	
@@ -36,8 +40,14 @@ public class DemoDay3 {
 		a= 6;
 		b=7;
 	}
-	
-	public void display() {
-		System.out.println("display");
+
+
+	public void notAble(int c, int d) {
+		System.out.println
+		("are you able to pull it");
 	}
+	public void color(String color, String color2){
+		
+
+}
 }
