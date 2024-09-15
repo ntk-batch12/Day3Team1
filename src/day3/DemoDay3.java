@@ -6,6 +6,15 @@ public class DemoDay3 {
 		
 		System.out.println("Day 3 Team 1");
 		
+		int a = 10;
+		int b = 20; 
+		int count = 40;
+		if (a == b) {
+		System.out.println("equals");
+		}else {
+			System.out.println("Not equal");
+			
+		}
 	}
 	
 	public static void Employee(String firstName, String lastName) {
