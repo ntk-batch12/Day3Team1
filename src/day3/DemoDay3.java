@@ -47,7 +47,10 @@ public class DemoDay3 {
 		("are you able to pull it");
 	}
 	public void color(String color, String color2){
-		
-
 }
+	//This is coming from getHub
+	//and this is a constructor
+	public DemoDay3() {
+		
+	}
 }
