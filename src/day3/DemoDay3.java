@@ -13,5 +13,8 @@ public class DemoDay3 {
 		String n2 = "AlQaraghuli";
 		String n3= "Merri";
 		firstName =  "jose";
+
+		int age = 10;
+		int count = 20;
 	}
 }
