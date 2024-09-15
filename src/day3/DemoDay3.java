@@ -36,4 +36,8 @@ public class DemoDay3 {
 		a= 6;
 		b=7;
 	}
+	
+	public void display() {
+		System.out.println("display");
+	}
 }
