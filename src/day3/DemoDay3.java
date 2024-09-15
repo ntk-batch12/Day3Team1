@@ -36,4 +36,8 @@ public class DemoDay3 {
 		a= 6;
 		b=7;
 	}
+
+	public void notAble(int c, int d) {
+		system.println.out("are you able to pull it");
+	}
 }
