@@ -42,6 +42,8 @@ public class DemoDay3 {
 	}
 
 	public void notAble(int c, int d) {
-		system.println.out("are you able to pull it");
+		System.out.pirntln("are you able to pull it");
 	}
+	public void color(String color, String color2){
+		
 }
