@@ -20,6 +20,10 @@ public class DemoDay3 {
 	}
 
 	public void add(int a, int b, int c) {
+		
+		a = 10;
+		b = 30;
+		c = 5;
 		System.out.println(a + b + c);
 	}
 	
