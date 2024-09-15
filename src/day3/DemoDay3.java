@@ -9,6 +9,7 @@ public class DemoDay3 {
 	}
 	
 	public static void Employee(String firstName, String lastName) {
-		
+		String n1 = "Hiba";
+		String n2 = "AlQaraghuli";
 	}
 }
