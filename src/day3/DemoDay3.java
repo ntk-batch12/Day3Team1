@@ -13,5 +13,10 @@ public class DemoDay3 {
 		String n2 = "AlQaraghuli";
 		String n3= "Merri";
 		firstName =  "jose";
+		if (n1.equals(n2)) {
+			System.out.println("Equals");
+		} else {
+			System.out.println("not equals");
+		}
 	}
 }
