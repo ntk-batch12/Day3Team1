@@ -5,6 +5,7 @@ public class DemoDay3 {
 	public static void main(String[] args) {
 		
 		System.out.println("Day 3 Team 1");
+
 		
 		int a = 10;
 		int b = 20; 
@@ -15,6 +16,11 @@ public class DemoDay3 {
 			System.out.println("Not equal");
 			
 		}
+
+		int h = 10;
+		String firstName = "John";
+		count = 20;
+
 	}
 	
 	public static void Employee(String firstName, String lastName) {
