@@ -27,4 +27,7 @@ public class DemoDay3 {
 		System.out.println("Create a conflict..");
 	}
 
+	public void balance(int x, int y) {
+		System.out.println(x + y);
+	}
 }
