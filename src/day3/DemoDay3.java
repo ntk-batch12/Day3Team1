@@ -18,5 +18,9 @@ public class DemoDay3 {
 		} else {
 			System.out.println("not equals");
 		}
+		
+
+		System.out.println(n2);
+		System.out.println(n3);
 	}
 }
