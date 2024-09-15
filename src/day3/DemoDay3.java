@@ -12,5 +12,6 @@ public class DemoDay3 {
 		String n1 = "Hiba";
 		String n2 = "AlQaraghuli";
 		String n3= "Merri";
+		firstName =  "jose";
 	}
 }
