@@ -30,4 +30,8 @@ public class DemoDay3 {
 	public void balance(int x, int y) {
 		System.out.println(x + y);
 	}
+	
+	public static void add (int a, int b) {
+		System.out.println(a+b);
+	}
 }
