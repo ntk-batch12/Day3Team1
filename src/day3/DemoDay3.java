@@ -12,7 +12,11 @@ public class DemoDay3 {
 		System.out.println("xyz");
 		System.out.println("xyz");
 		System.out.println("xyz");
-
+		
+		String phoen = "abc";
+		String laptop = "xyz";
+		
+		
 		
 		int a = 10;
 		int b = 20; 
