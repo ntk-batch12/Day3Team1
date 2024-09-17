@@ -5,7 +5,8 @@ public class DemoDay3 {
 	public static void main(String[] args) {
 		
 		System.out.println("Day 3 Team 1");
-
+		System.out.println("abc");
+		System.out.println("xyz");
 		
 		int a = 10;
 		int b = 20; 
