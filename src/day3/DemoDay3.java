@@ -9,6 +9,9 @@ public class DemoDay3 {
 
 		System.out.println("abc");
 		System.out.println("xyz");
+		System.out.println("xyz");
+		System.out.println("xyz");
+		System.out.println("xyz");
 
 		
 		int a = 10;
