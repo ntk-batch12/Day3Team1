@@ -14,7 +14,7 @@ public class DemoDay3 {
 		System.out.println("equals");
 		}else {
 			System.out.println("Not equal");
-			
+			dffdfds fdsf dsfsd
 		}
 
 		int h = 10;
