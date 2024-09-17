@@ -17,7 +17,6 @@ public class DemoDay3 {
 		String phoen = "abc";
 		String laptop = "xyz";
 		
- 
 		int a = 10;
 		int b = 20; 
 		int count = 40;
@@ -25,7 +24,7 @@ public class DemoDay3 {
 		System.out.println("equals");
 		}else {
 			System.out.println("Not equal");
-			dffdfds fdsf dsfsd
+			
 		}
 
 		int h = 10;
